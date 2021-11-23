@@ -1,0 +1,42 @@
+{
+    "events":[
+        {"id": 1,
+            "name": "Throwback Fridays with FemiDevs Band",
+            "slug": "throwback-fridays-femidevs",
+            "venue": "Horizon Center",
+            "address":"600, 13th avenue, kisumu",
+            "perfomers":"Dj Mongina",
+            "date": "November 15th 2021",
+            "time": "9:00am EAT",
+            "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
+            "image": "/images/sample/event1.jpg"
+        },
+        
+        {
+            "id": 2,
+            "name": "Dance Festival extension",
+            "slug": "dance-festival-femidevs",
+            "venue": "Rackjacks",
+            "address":"600, 13th avenue, kisumu",
+            "perfomers":"Dj Jean",
+            "date": "November 15th 2021",
+            "time": "9:00am EAT",
+            "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
+            "image": "/images/sample/event2.jpg"
+        },
+        
+        {
+            "id": 3,
+            "name": "Dance Festival extension",
+            "slug": "Music-festival-femidevs",
+            "venue": "Rackjacks",
+            "address":"600, 13th avenue, kisumu",
+            "perfomers":"Dj Bella",
+            "date": "November 15th 2021",
+            "time": "9:00am EAT",
+            "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
+            "image": "/images/sample/event3.jpg"
+        }
+
+    ]
+}
