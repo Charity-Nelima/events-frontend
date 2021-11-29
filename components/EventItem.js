@@ -1,9 +1,7 @@
 import Link from "next/link";
 import Image from "next/Image";
 import styles from "../styles/EventItem.module.css";
-import Header from "./Header";
-import footer from "./Footer";
-import Layout from "./layout";
+
 export default function EventItem(props){
     return(
         <div className={styles.event}>
