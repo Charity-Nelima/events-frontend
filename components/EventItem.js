@@ -9,7 +9,7 @@ export default function EventItem(props){
 
                 <Image src={props.eventData.Image
                 ? props.eventData.Image
-                :"/images/sample/event1.jpg"
+                :`${props.eventData.image}`
                 }
                 width={170}
                 height={100}
